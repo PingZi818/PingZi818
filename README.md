@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Liping</h1>
 </div>
-
+<div align="center">
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+</div>
 
 <!--
 **PingZi818/PingZi818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +22,7 @@ Here are some ideas to get you started:
 
 # PingZi818 🌝
 
-<img width="340px" src="https://github-readme-stats.vercel.app/api?username=PingZi818&theme=vue-dark&count_private=true&show_icons=true">
-<img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingZi818&theme=vue-dark&layout=compact">
+<img width="340px" src="https://github-readme-stats.vercel.app/api?username=PingZi818&theme=vue-dark&count_private=true&show_icons=true"><img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PingZi818&theme=vue-dark&layout=compact">
 
 
 ### Yo! Look at this snake eating up my contributions! 
