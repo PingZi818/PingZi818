@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Liping</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm LittleBottle</h1>
 </div>
 
  <div align="center"><img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" /></div>
@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 ### 😜Here's a Joke for you:
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<div align="right">
-  <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-</div>
