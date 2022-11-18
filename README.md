@@ -1,9 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Liping</h1>
 </div>
-<div align="center">
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-</div>
 
 <!--
 **PingZi818/PingZi818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +28,8 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
 ### 😜Here's a Joke for you:
+
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<div align="right">
+<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+  </div>
